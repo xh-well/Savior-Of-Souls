@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{8DD70541-8726-1FA6-1F71-47CA5A253B00}</ProjectGuid>
+	<ProjectGuid>{0C686B3B-20B7-ACE4-5657-4F475E51DFD2}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -258,10 +258,10 @@
      <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
      <None Include="Assets\ShurikenMagic\Shaders\SM_TransparentRim.shader" />
  <Reference Include="Elixis">
- <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/Savior of Souls iOS/Assets/Plugins/Easy Save 2/Libraries/Elixis.dll</HintPath>
+ <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls Git/Savior-Of-Souls/Assets/Plugins/Easy Save 2/Libraries/Elixis.dll</HintPath>
  </Reference>
  <Reference Include="ES2">
- <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/Savior of Souls iOS/Assets/Plugins/Easy Save 2/Libraries/ES2.dll</HintPath>
+ <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls Git/Savior-Of-Souls/Assets/Plugins/Easy Save 2/Libraries/ES2.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

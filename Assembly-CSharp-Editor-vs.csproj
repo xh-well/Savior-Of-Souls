@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{0D53CF8F-E8F3-8EE6-1DB4-88D5342A853F}</ProjectGuid>
+	<ProjectGuid>{6CC54F01-52C3-C74D-3A14-73AC6519DA5D}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -170,13 +170,13 @@
      <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
      <None Include="Assets\ShurikenMagic\Shaders\SM_TransparentRim.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/Savior of Souls iOS/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls Git/Savior-Of-Souls/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="Elixis">
- <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/Savior of Souls iOS/Assets/Plugins/Easy Save 2/Libraries/Elixis.dll</HintPath>
+ <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls Git/Savior-Of-Souls/Assets/Plugins/Easy Save 2/Libraries/Elixis.dll</HintPath>
  </Reference>
  <Reference Include="ES2">
- <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/Savior of Souls iOS/Assets/Plugins/Easy Save 2/Libraries/ES2.dll</HintPath>
+ <HintPath>/Users/lone19880910/Desktop/Olewajudas/Savior of Souls Git/Savior-Of-Souls/Assets/Plugins/Easy Save 2/Libraries/ES2.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -184,9 +184,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{8DD70541-8726-1FA6-1F71-47CA5A253B00}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{0C686B3B-20B7-ACE4-5657-4F475E51DFD2}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass-vs.csproj">
-      <Project>{2274B699-8561-7BDC-D2FC-BEA7A50E2FAC}</Project>      <Name>Assembly-CSharp-Editor-firstpass-vs</Name>    </ProjectReference>
+      <Project>{3E509650-4A04-9427-E524-6E94DDA05D3B}</Project>      <Name>Assembly-CSharp-Editor-firstpass-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
