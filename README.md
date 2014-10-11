@@ -1,2 +1,2 @@
-Savior-Of-Souls
-===============
+Savior-of-Souls-iOS
+===================
